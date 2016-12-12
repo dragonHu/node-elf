@@ -1,0 +1,14 @@
+{
+  "name": "node-elf",
+  "version": "0.0.1",
+  "description": "npm test install project",
+  "keywords": ["node-elf"],
+  "author": "nibin.hu <nibin.hu@tendcloud.com>",
+  "repository": { "type": "git", "url": "git://github.com/dragonHu/node-elf.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
